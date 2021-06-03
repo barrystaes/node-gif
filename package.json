@@ -1,6 +1,6 @@
 {
   "name": "gif",
-  "version": "2.0.2",
+  "version": "2.1.0-beta.0",
   "main": "./index.js",
   "description": "A C++ module for node-js that converts RGB and RGBA buffers to a GIF images (in memory).",
   "keywords": [
@@ -16,6 +16,12 @@
     "web": "http://www.catonmat.net",
     "twitter": "pkrumins"
   },
+  "contributors": [
+    {
+      "name": "Barry Staes",
+      "url": "https://barrystaes.nl"
+    }
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
